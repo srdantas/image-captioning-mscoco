@@ -1,3 +1,9 @@
+# intellij
+.idea/**
+
+# train folder dataset
+train**
+
 # annotation folder
 annotations/**
 
